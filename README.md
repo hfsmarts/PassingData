@@ -1,7 +1,7 @@
 
 # PassingData
   <p align="left">
-Probably the easiest way to pass data from one to another ViewController.
+Probably the easiest way to pass data (programmatically) from one to another ViewController.
   </p>
   
 <p align="left">

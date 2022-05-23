@@ -9,7 +9,7 @@ Passing string from one ViewController to the another, using present and dismiss
 </p>
 
 <div align="center">
-<img src="images/view1.PNG" height="800">
-<img src="images/view2.PNG" height="800">
+<img src="view1.PNG" height="800">
+<img src="view2.PNG" height="800">
 </div>
 
